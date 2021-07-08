@@ -22,7 +22,7 @@ Implement web pages with Bootstrap
 
 
 ### [Reuse and polish your Bootstrap integration](./0-homepage.html)
-* Copy files from [0x0B. Implement a design with bootstrap](https://github.com/afinesami/holberton-smiling-school)
+* Copy files from [0x0B. Implement a design with bootstrap](https://github.com/Santiago-Gallego/holberton-smiling-school)
 
 ### [Homepage - quotes](./1-homepage.html)
 
