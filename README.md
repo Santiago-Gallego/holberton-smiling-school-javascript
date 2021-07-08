@@ -13,12 +13,7 @@ Implement web pages with Bootstrap
 <p align="center"><img src="https://github.com/afinesami/holberton-smiling-school-javascript/blob/main/3c71cc99d2fc1c12a3d3.jpg" alt="final result"></a></p>
 
 ---
-# holberton-smiling-school
-
 # holberton-smiling-school-javascript
-
-# holberton-smiling-school-javascript
->>>>>>> 05e4b81b896ca652c92c02fab2d78888c5926897
 * This is a fullstack web specialization project at Holberton school.
 * The goal of this project is a implement a Figma design template in HTML, CSS and Bootstrap
 * The project has no guiding instructions.
