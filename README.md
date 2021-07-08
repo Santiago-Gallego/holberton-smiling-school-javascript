@@ -37,11 +37,3 @@
 ![Courses Tablet UI design](/screenshot/Mobile/02_SMILESCHOOL_PRICING_mobile@2x.png)
 #### Courses mobile design
 ![Courses Mobile UI design](/screenshot/Tablet/02_SMILESCHOOL_PRICING_tablet@2x.png)
-
-### Pricing Designs
-#### Pricing desktop design
-![Pricing Desktop UI design](/screenshot/Desktop/03_SMILESCHOOL_COURSES_desktop@2x.png)
-#### Pricing tablet design
-![Pricing Tablet UI design](/screenshot/Mobile/02_SMILESCHOOL_PRICING_mobile@2x.png)
-#### Pricing mobile design
-![Pricing Mobile UI design](/screenshot/Tablet/02_SMILESCHOOL_PRICING_mobile@2x.png)
