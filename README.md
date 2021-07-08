@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # holberton-smiling-school-javascript
-=======
+
 # holberton-smiling-school-javascript
 * This is a fullstack web specialization project at Holberton school.
 * The goal of this project is a implement a Figma design template in HTML, CSS and Bootstrap
@@ -26,18 +25,3 @@
 ## Pages Designs Screenshots
 
 ### Homepage Designs
-#### Homepage desktop design
-![Homepage Desktop UI design](/screenshot/Desktop/01_SMILESCHOOL_LANDING_desktop@2x.png)
-#### Homepage tablet design
-![Homepage Tablet UI design](/screenshot/Mobile/01_SMILESCHOOL_LANDING_mobile@2x.png)
-#### Homepage mobile design
-![Homepage Mobile UI design](/screenshot/Tablet/01_SMILESCHOOL_LANDING_tablet@2x.png)
-
-### Courses Designs
-#### Courses desktop design
-![Courses Desktop UI design](/screenshot/Desktop/02_SMILESCHOOL_PRICING_desktop@2x.png)
-#### Courses tablet design
-![Courses Tablet UI design](/screenshot/Mobile/02_SMILESCHOOL_PRICING_mobile@2x.png)
-#### Courses mobile design
-![Courses Mobile UI design](/screenshot/Tablet/02_SMILESCHOOL_PRICING_tablet@2x.png)
->>>>>>> a942952bae57e58926472a7202a0366f28a569d2
