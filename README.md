@@ -83,10 +83,6 @@ Replace static video card by dynamic loading:
     -   A new Topic is selected
     -   A new Sort by is selected
 
-
-## Author
-* **Santiago Gallego** - [Santiago-Gallego](https://github.com/Santiago-Gallego)
-
 ## Requirements
 * We have to use Bootstrap.
 * Our styles.css must be as small as you can - we must use as much as we can Bootstrap classes.
@@ -101,3 +97,6 @@ Replace static video card by dynamic loading:
 * Web pages must switch to the tablet version when the screen width is 768px
 * Web pages must switch to the mobile version when the screen width is 576px
 * button hover/active: opacity: 0.9
+
+## Author
+* **Santiago Gallego** - [Santiago-Gallego](https://github.com/Santiago-Gallego)
