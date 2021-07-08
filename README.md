@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Holberton Smiling School Javascript
 
 
@@ -14,12 +15,18 @@ Implement web pages with Bootstrap
 
 ---
 # holberton-smiling-school
+=======
+# holberton-smiling-school-javascript
+
+# holberton-smiling-school-javascript
+>>>>>>> 05e4b81b896ca652c92c02fab2d78888c5926897
 * This is a fullstack web specialization project at Holberton school.
 * The goal of this project is a implement a Figma design template in HTML, CSS and Bootstrap
 * The project has no guiding instructions.
 * There are 3 page to implement.
 * There are 3 different layout (desktop, tablet and mobile) for each page.
 
+<<<<<<< HEAD
 
 ### [Reuse and polish your Bootstrap integration](./0-homepage.html)
 * Copy files from [0x0B. Implement a design with bootstrap](https://github.com/afinesami/holberton-smiling-school)
@@ -108,3 +115,23 @@ Final result should be the same as the JSON API version
 
 ## Author
 * **Lafine Sami** - [Lafine Sami](https://github.com/afinesami)
+=======
+## Requirements
+* We have to use Bootstrap.
+* Our styles.css must be as small as you can - we must use as much as we can Bootstrap classes.
+* The web pages have to be responsive.
+* Will have import fonts from Google, JQuery and Bootstrap CSS/JS.
+
+## Best practices to follow for this project
+* Use Bootstrap as much as possible.
+* Use personalized CSS as little as possible.
+
+## Design informations
+* Web pages must switch to the tablet version when the screen width is 768px
+* Web pages must switch to the mobile version when the screen width is 576px
+* button hover/active: opacity: 0.9
+
+## Pages Designs Screenshots
+
+### Homepage Designs
+>>>>>>> 05e4b81b896ca652c92c02fab2d78888c5926897
