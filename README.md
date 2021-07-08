@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Holberton Smiling School Javascript
 
 
@@ -15,7 +14,7 @@ Implement web pages with Bootstrap
 
 ---
 # holberton-smiling-school
-=======
+
 # holberton-smiling-school-javascript
 
 # holberton-smiling-school-javascript
@@ -26,7 +25,6 @@ Implement web pages with Bootstrap
 * There are 3 page to implement.
 * There are 3 different layout (desktop, tablet and mobile) for each page.
 
-<<<<<<< HEAD
 
 ### [Reuse and polish your Bootstrap integration](./0-homepage.html)
 * Copy files from [0x0B. Implement a design with bootstrap](https://github.com/afinesami/holberton-smiling-school)
@@ -90,32 +88,10 @@ Replace static video card by dynamic loading:
     -   A new Topic is selected
     -   A new Sort by is selected
 
-### [JSON to XML](./xml-scripts.js)
-
-Convert all your JSON Ajax call to another API… a XML API!
-
-Copy files - same content, except loading  `xml-scripts.js`  instead of  `script.js`
-
--   `homepage.html`  ->  `xml-homepage.html`
--   `pricing.html`  ->  `xml-pricing.html`
--   `courses.html`  ->  `xml-courses.html`
-
-And use this API:
-
--   quotes:  `https://smileschool-api.hbtn.info/xml/quotes`
--   popular tutorials:  `https://smileschool-api.hbtn.info/xml/popular-tutorials`
--   latest videos:  `https://smileschool-api.hbtn.info/xml/latest-videos`
--   courses:  `https://smileschool-api.hbtn.info/xml/courses`
-
-Final result should be the same as the JSON API version
-
-
-
----
 
 ## Author
-* **Lafine Sami** - [Lafine Sami](https://github.com/afinesami)
-=======
+* **Santiago Gallego** - [Santiago-Gallego](https://github.com/Santiago-Gallego)
+
 ## Requirements
 * We have to use Bootstrap.
 * Our styles.css must be as small as you can - we must use as much as we can Bootstrap classes.
@@ -130,8 +106,3 @@ Final result should be the same as the JSON API version
 * Web pages must switch to the tablet version when the screen width is 768px
 * Web pages must switch to the mobile version when the screen width is 576px
 * button hover/active: opacity: 0.9
-
-## Pages Designs Screenshots
-
-### Homepage Designs
->>>>>>> 05e4b81b896ca652c92c02fab2d78888c5926897
